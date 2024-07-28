@@ -5,6 +5,13 @@
             "nombre": "cuadro de paisaje con avión",
             "precio": "1000000",
             "imagen": "https://images.pexels.com/photos/20324744/pexels-photo-20324744/free-photo-of-vehiculo-avion-aterrizaje-aterrando.jpeg"
+        },
+
+        {
+            "id": "cded",
+            "nombre": "mini moto deportiva",
+            "precio": "80.000",
+            "imagen": "https://media.istockphoto.com/id/1248269650/es/foto/primer-plano-de-la-moto-de-moto-de-juguete.jpg?s=1024x1024&w=is&k=20&c=4dwl1GOLHkogN8elcmPrtny7I7qGUfZKGB3FBLFXO1Y="
         }
     ]
   }
